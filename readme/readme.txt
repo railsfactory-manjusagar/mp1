@@ -61,7 +61,8 @@ Completed programs:
      56.Print date
      57.Get IP address
      58.Shutdown computer
-
+     59.Delete vowels
+     60.Merge arrays
  Tasks
   1.Calculator task
   2.Roman numbers task
@@ -71,9 +72,8 @@ Completed programs:
 
 Pending Programs:
     
-     59.Merge arrays
-     60.Addition using pointers 
-     61.Delete vowels
+    
+     61.Addition using pointers 
      62.C substring
      63.Sort a string
      64.Remove spaces 
